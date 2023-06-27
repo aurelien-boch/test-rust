@@ -1,0 +1,3 @@
+mod bcrypt_password_hashing_service;
+
+pub use bcrypt_password_hashing_service::BcryptPasswordHashingService;

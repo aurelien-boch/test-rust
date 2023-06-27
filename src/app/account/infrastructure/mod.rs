@@ -1,0 +1,3 @@
+mod postgresql_account_repository;
+
+pub use postgresql_account_repository::PostgresqlAccountRepository;
